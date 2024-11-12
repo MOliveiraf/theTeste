@@ -1,0 +1,21 @@
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar dependências do Node.js
+node_modules/
+npm-debug.log*
+
+# Ignorar relatórios de cobertura de testes (caso use alguma ferramenta de cobertura)
+coverage/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações específicas de editores
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
